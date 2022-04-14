@@ -1,5 +1,7 @@
 #adding config.py file
 config.py
+#ignoring rating because file to large
+ratings.csv
 
 #adding additional files
 API_practice.ipynb
